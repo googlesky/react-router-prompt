@@ -9,8 +9,6 @@ lerna-debug.log*
 .cache
 
 node_modules
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
@@ -26,10 +24,7 @@ dist-ssr
 
 
 # dev
-dist
 node_modules
-public/script.js
-public/script.js.map
 
 # OS
 .DS_Store
